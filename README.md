@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I am curently following DAI
+I am curently following DAI in my second year at the HEIG
+
 
 <!--
 **luma2010/luma2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
